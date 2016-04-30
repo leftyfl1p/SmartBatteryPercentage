@@ -1,0 +1,9 @@
+Package: com.leftyfl1p.smartbatterypercentage
+Name: SmartBatteryPercentage
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Combines the battery % of the device and the Smart Battery Case. 
+Maintainer: leftyfl1p
+Author: leftyfl1p
+Section: Tweaks
