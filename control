@@ -1,9 +1,9 @@
 Package: com.leftyfl1p.smartbatterypercentage
 Name: SmartBatteryPercentage
 Depends: mobilesubstrate
-Version: 0.0.1
+Version: 1.0
 Architecture: iphoneos-arm
-Description: Combines the battery % of the device and the Smart Battery Case. 
-Maintainer: leftyfl1p
-Author: leftyfl1p
+Description: Combine the battery % of the device and the Apple Smart Battery Case. Should work with 9.0-9.3. Only tested on 9.0.2 & 9.3.3. ONLY works with Apple’s case since other battery cases are just seen as power sources.
+Maintainer: leftyfl1p <leftyfl1p@icloud.com>
+Author: leftyfl1p <leftyfl1p@icloud.com>
 Section: Tweaks
